@@ -1,1 +1,1 @@
-A simple POC using webpack 5 federation module
+A simple POC using webpack 5 module federation
